@@ -15,7 +15,11 @@ Optimized configuration files for Linux developers who value terminal efficiency
 
 ## ⚡ Quick Setup Guide
 
-### 1. Clone the Repository
+### 1. Clone the repository
 ```bash
-git clone https://github.com/Jhontabo/dotfiles.git ~/.dotfiles
-cd ~/.dotfiles
+git clone https://github.com/Jhontabo/dotfiles.git
+```
+### 2. navigate to the directory
+```bash
+cd dotfiles
+```
